@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Compare</name>
+   <tag></tag>
+   <elementGuidId>0e42e287-e51c-47b0-9cd0-3891384586b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.block-content > div.actions > button.button > span > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='top']/body/div/div/div[2]/div/div[3]/div/div[2]/div/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>09e8c735-9182-457e-9fe7-bad657e427cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Compare</value>
+      <webElementGuid>3df15196-ff8f-424b-b764-418410a86268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/body[@class=&quot;catalog-category-view categorypath-mobile-html category-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;main-container col3-layout&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;col-right sidebar&quot;]/div[@class=&quot;block block-list block-compare&quot;]/div[@class=&quot;block-content&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;button&quot;]/span[1]/span[1]</value>
+      <webElementGuid>0192a0d4-de90-4647-8238-6539535d5d36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='top']/body/div/div/div[2]/div/div[3]/div/div[2]/div/button/span/span</value>
+      <webElementGuid>ce709328-3727-4254-8a5c-9377de58810c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung Galaxy'])[2]/following::span[2]</value>
+      <webElementGuid>78a236da-0564-4f8e-95c9-75892cba7d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove This Item'])[2]/following::span[2]</value>
+      <webElementGuid>e4915696-8667-47a0-9a00-e986130ca314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All'])[1]/preceding::span[1]</value>
+      <webElementGuid>b413f8f9-a46f-403c-a0ec-31c3528d89d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/preceding::span[1]</value>
+      <webElementGuid>9b453b3f-fa41-4a78-b40c-988e0a40ca3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Compare']/parent::*</value>
+      <webElementGuid>8b94f13b-6e7b-47ad-8c1d-b927355162e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span/span</value>
+      <webElementGuid>8dda5d50-b2d3-416c-ab69-a256b51637d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Compare' or . = 'Compare')]</value>
+      <webElementGuid>0842115f-12ce-486c-94a7-e6fba7db58fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Credit Card (saved)</name>
+   <tag></tag>
+   <elementGuidId>35b52fb0-9f39-4d9b-96b5-5e8c3853c99f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//dt[@id='dt_method_ccsave']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dt_method_ccsave > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>fbed57f3-5c50-4c18-92a6-70e551727d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>p_method_ccsave</value>
+      <webElementGuid>a74d37f0-4635-45f8-94e2-b3a1e6933752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Credit Card (saved) </value>
+      <webElementGuid>019b7b64-d626-4271-993d-8595ffbdabc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dt_method_ccsave&quot;)/label[1]</value>
+      <webElementGuid>e8518dac-bf8f-463f-ad76-49cae8813f7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//dt[@id='dt_method_ccsave']/label</value>
+      <webElementGuid>4e1a9940-501b-49e6-a0af-ccd8f38ed868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Information'])[1]/following::label[1]</value>
+      <webElementGuid>92fca777-eae1-4d72-af39-0748df81bd68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[17]/preceding::label[1]</value>
+      <webElementGuid>064be3f7-6fe1-4686-9941-f60fec68da51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Credit Card (saved)']/parent::*</value>
+      <webElementGuid>45885ff9-2a6b-463e-aaa7-cf7910a70aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dt/label</value>
+      <webElementGuid>1aa7fb54-bddc-4e3b-aad0-46b3ed030dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Credit Card (saved) ' or . = 'Credit Card (saved) ')]</value>
+      <webElementGuid>2d1bb8e0-6e3c-4b56-a732-b7fee2bf831d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

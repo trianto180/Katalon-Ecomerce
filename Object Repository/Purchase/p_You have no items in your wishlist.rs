@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_You have no items in your wishlist</name>
+   <tag></tag>
+   <elementGuidId>61a41d1e-09dc-4a08-9ad6-b96fc7aba457</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='wishlist-view-form']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.wishlist-empty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3752dd76-f3c0-4511-9296-acf24be51023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wishlist-empty</value>
+      <webElementGuid>df356dc4-6711-47da-a343-09498adb3b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You have no items in your wishlist.</value>
+      <webElementGuid>99c142b8-2efc-487f-a566-a27e6a02b40f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wishlist-view-form&quot;)/div[@class=&quot;fieldset&quot;]/p[@class=&quot;wishlist-empty&quot;]</value>
+      <webElementGuid>c93beb1b-ee34-449e-9af5-06c9dcbf808b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='wishlist-view-form']/div/p</value>
+      <webElementGuid>13e7884f-5bb5-4c2f-a3a0-2a2646d6c3ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wishlist'])[4]/following::p[1]</value>
+      <webElementGuid>b9ecce00-6a29-4e2a-bd56-9d03d9bedf26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Downloadable Products'])[1]/following::p[1]</value>
+      <webElementGuid>535906a1-4358-4a0a-aabf-fd3d788eae67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[1]/preceding::p[1]</value>
+      <webElementGuid>df10f389-d6e6-4d06-9f2b-c77fae594cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You have no items in your wishlist.']/parent::*</value>
+      <webElementGuid>858c4236-a3c1-40bb-a928-a148ab4f0845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/p</value>
+      <webElementGuid>7c83cef5-21bd-4103-8c24-681265651468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'You have no items in your wishlist.' or . = 'You have no items in your wishlist.')]</value>
+      <webElementGuid>4442c467-c291-4820-a194-c6a813378c83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

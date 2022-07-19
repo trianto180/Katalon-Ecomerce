@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Middle NameInitial_input-box</name>
+   <tag></tag>
+   <elementGuidId>609a6829-8769-4900-9e04-4a6c8975d503</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.field.name-middlename > div.input-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-validate']/div/ul/li/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c0ca362-de02-43da-a740-ecaa2ada5c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-box</value>
+      <webElementGuid>84b0e71b-9058-49c4-8542-7b00f256d80f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-validate&quot;)/div[@class=&quot;fieldset&quot;]/ul[@class=&quot;form-list&quot;]/li[@class=&quot;fields&quot;]/div[@class=&quot;customer-name-middlename&quot;]/div[@class=&quot;field name-middlename&quot;]/div[@class=&quot;input-box&quot;]</value>
+      <webElementGuid>aa512ce7-fa24-4cd3-bac5-acd8713eb5a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-validate']/div/ul/li/div/div[2]/div</value>
+      <webElementGuid>a772bc07-7261-471b-af4e-81434492e5ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Middle Name/Initial'])[1]/following::div[1]</value>
+      <webElementGuid>02a108a8-a3e4-408a-aacf-8e2a686124a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is a required field.'])[1]/following::div[2]</value>
+      <webElementGuid>450b4d96-c6e6-4270-a939-38a8b914eb86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[1]</value>
+      <webElementGuid>7faf0208-cbc8-43b8-a15d-f6cc5ebbb702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[2]/div</value>
+      <webElementGuid>9d86786f-13c7-4984-8637-69910f388d0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

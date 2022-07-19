@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add to Compare</name>
+   <tag></tag>
+   <elementGuidId>b89756c1-535a-4499-956d-834e7ab7a8da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.link-compare</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='top']/body/div/div/div[2]/div/div[2]/div/div[3]/ul/li/div/div[3]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>276f2d43-7775-4f30-a67d-5eabca8bcea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://live.techpanda.org/index.php/catalog/product_compare/add/product/2/uenc/aHR0cDovL2xpdmUudGVjaHBhbmRhLm9yZy9pbmRleC5waHAvbW9iaWxlLmh0bWw,/form_key/LoD51C4I8XIKV6po/</value>
+      <webElementGuid>0ae0bda4-6404-42ba-b385-ec65248a2639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-compare</value>
+      <webElementGuid>58c147e3-fce4-493d-bb11-37e2578010ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Compare</value>
+      <webElementGuid>09f1e4ac-ae63-49fb-8c13-9b1623aa85a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/body[@class=&quot;catalog-category-view categorypath-mobile-html category-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;main-container col3-layout&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;col-wrapper&quot;]/div[@class=&quot;col-main&quot;]/div[@class=&quot;category-products&quot;]/ul[@class=&quot;products-grid products-grid--max-4-col first last odd&quot;]/li[@class=&quot;item last&quot;]/div[@class=&quot;product-info&quot;]/div[@class=&quot;actions&quot;]/ul[@class=&quot;add-to-links&quot;]/li[2]/a[@class=&quot;link-compare&quot;]</value>
+      <webElementGuid>5b6b5c45-4363-4a6c-b37b-80f283bd4413</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='top']/body/div/div/div[2]/div/div[2]/div/div[3]/ul/li/div/div[3]/ul/li[2]/a</value>
+      <webElementGuid>2168fb4f-6530-4229-a209-dbe4fd8ab839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add to Compare')]</value>
+      <webElementGuid>f51ef51d-c7cc-42bc-91e5-79b5e51c7c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/following::a[1]</value>
+      <webElementGuid>2c575299-f0eb-4009-9bcd-7cf15cc587ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Wishlist'])[1]/following::a[1]</value>
+      <webElementGuid>0121f97c-e68f-4d16-8db3-4f09950e28f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung Galaxy'])[1]/preceding::a[2]</value>
+      <webElementGuid>34220f23-774d-43f4-80b6-4e08ce0ffb2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regular Price:'])[1]/preceding::a[3]</value>
+      <webElementGuid>f4258e21-84b7-4b45-8d23-e90d0a26bcbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to Compare']/parent::*</value>
+      <webElementGuid>4f6b42e0-bdcf-4e84-abbc-4dfbb5b6f24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://live.techpanda.org/index.php/catalog/product_compare/add/product/2/uenc/aHR0cDovL2xpdmUudGVjaHBhbmRhLm9yZy9pbmRleC5waHAvbW9iaWxlLmh0bWw,/form_key/LoD51C4I8XIKV6po/']</value>
+      <webElementGuid>afe33d08-c75b-40d6-804f-9eafec301a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[3]/ul/li[2]/a</value>
+      <webElementGuid>a1679872-f8de-4b93-bcbd-67d0f9d6250a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://live.techpanda.org/index.php/catalog/product_compare/add/product/2/uenc/aHR0cDovL2xpdmUudGVjaHBhbmRhLm9yZy9pbmRleC5waHAvbW9iaWxlLmh0bWw,/form_key/LoD51C4I8XIKV6po/' and (text() = 'Add to Compare' or . = 'Add to Compare')]</value>
+      <webElementGuid>a387b266-bb15-4267-99e5-33d06ec8537e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

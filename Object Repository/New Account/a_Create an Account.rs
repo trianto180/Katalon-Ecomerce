@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create an Account</name>
+   <tag></tag>
+   <elementGuidId>59546ed7-865e-4071-813e-53b113bf35c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='login-form']/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8a3fe6c-0a1f-42c1-9352-3bb227900085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Create an Account</value>
+      <webElementGuid>a9f4d843-e728-4298-b792-ab8371fe3b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>42e55575-9484-466e-a3d1-e90297d95171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://live.techpanda.org/index.php/customer/account/create/</value>
+      <webElementGuid>bf6d5479-f667-4230-a501-72506d2820ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create an Account</value>
+      <webElementGuid>1740a363-63e2-4d25-842e-ee9c3e4dfc0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-form&quot;)/div[@class=&quot;col2-set&quot;]/div[@class=&quot;col-1 new-users&quot;]/div[@class=&quot;buttons-set&quot;]/a[@class=&quot;button&quot;]</value>
+      <webElementGuid>352e7927-a855-4756-9708-0fadaacf61ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login-form']/div/div/div[2]/a</value>
+      <webElementGuid>5507eb1d-921e-4c7c-b0d9-f97f493f2976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View and track orders and more'])[1]/following::a[1]</value>
+      <webElementGuid>211237a1-00a1-47ac-9921-d3ade9e63dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save multiple shipping addresses'])[1]/following::a[1]</value>
+      <webElementGuid>7c7c0d5a-213f-483f-9780-47dc86724d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already registered?'])[1]/preceding::a[1]</value>
+      <webElementGuid>23b1c784-2b38-4c6c-b36c-a9a8929a4e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://live.techpanda.org/index.php/customer/account/create/'])[2]</value>
+      <webElementGuid>33899d43-70ae-4de9-bcb9-ab1f71bf5055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/a</value>
+      <webElementGuid>15ee5f9e-d184-447d-9111-92377509a25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Create an Account' and @href = 'http://live.techpanda.org/index.php/customer/account/create/' and (text() = 'Create an Account' or . = 'Create an Account')]</value>
+      <webElementGuid>9a4a6e38-86e0-45bb-8d8d-8bf68f7e502f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

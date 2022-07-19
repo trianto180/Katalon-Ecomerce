@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Wishlist</name>
+   <tag></tag>
+   <elementGuidId>a3207373-d938-4f75-a818-2b77b5cf3573</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='top']/body/div/div/div[2]/div/div/div/div[2]/ul/li[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7a002e99-35dc-4480-91ac-0adb81f318f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://live.techpanda.org/index.php/wishlist/</value>
+      <webElementGuid>d8cf2d9c-aeac-4b38-8870-151bc19bc20e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Wishlist</value>
+      <webElementGuid>a628dc4c-029d-4c27-97f4-3c3edc24d573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/body[@class=&quot;customer-account-index customer-account&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;main-container col2-left-layout&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;col-left sidebar col-left-first&quot;]/div[@class=&quot;block block-account&quot;]/div[@class=&quot;block-content&quot;]/ul[1]/li[8]/a[1]</value>
+      <webElementGuid>f33b00a1-ae8e-4a6b-9336-723054b11728</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='top']/body/div/div/div[2]/div/div/div/div[2]/ul/li[8]/a</value>
+      <webElementGuid>915ecea6-2db4-4e70-8fb2-54460f75cac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'My Wishlist')])[2]</value>
+      <webElementGuid>f02583c5-367c-41f3-8251-5c83f9fa845d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Product Reviews'])[1]/following::a[1]</value>
+      <webElementGuid>aef735ca-c8a4-4252-995e-1fb2edd6292f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recurring Profiles'])[1]/following::a[2]</value>
+      <webElementGuid>7c3ac5d1-97a0-4a0c-b4fb-1dd067f5bd66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Applications'])[1]/preceding::a[1]</value>
+      <webElementGuid>98e30697-29e4-498f-92f3-ad05796cbe98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter Subscriptions'])[1]/preceding::a[2]</value>
+      <webElementGuid>2277cd35-4d24-43b1-ab9c-64704846a3e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://live.techpanda.org/index.php/wishlist/'])[2]</value>
+      <webElementGuid>d1a85cd2-2181-4d47-a241-69641e2869b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>ef0355d1-01e0-4b49-adb5-abf18d47cee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://live.techpanda.org/index.php/wishlist/' and (text() = 'My Wishlist' or . = 'My Wishlist')]</value>
+      <webElementGuid>3bdec1a7-5d1f-4c4a-8f2f-f4e5b914515b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

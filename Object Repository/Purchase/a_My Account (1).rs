@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Account (1)</name>
+   <tag></tag>
+   <elementGuidId>fe5a47c9-66a7-4b91-b304-d55b8051b01b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='top']/body/div/div/div[3]/div/div[4]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.footer > div.links > ul > li.first > a[title=&quot;My Account&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>597bf981-3df9-44c6-a09f-f37628888d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://live.techpanda.org/index.php/customer/account/</value>
+      <webElementGuid>5da0ec9b-e73f-4974-a102-ece29197d1e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>My Account</value>
+      <webElementGuid>03f2d48c-183f-4686-8186-8675a14604f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Account</value>
+      <webElementGuid>ee0f0114-640a-424e-9d65-77fc22ec24ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/body[@class=&quot;checkout-cart-index&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;footer-container&quot;]/div[@class=&quot;footer&quot;]/div[@class=&quot;links&quot;]/ul[1]/li[@class=&quot;first&quot;]/a[1]</value>
+      <webElementGuid>cd2951eb-238e-4b59-9dff-cbbe620f0d87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='top']/body/div/div/div[3]/div/div[4]/ul/li/a</value>
+      <webElementGuid>47135e9d-0446-4b21-835b-a9d82deb9a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'My Account')])[2]</value>
+      <webElementGuid>cf82aca4-09da-4d9a-b6fa-a7eb057ebe83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[2]/following::a[1]</value>
+      <webElementGuid>2c90e61d-552a-4ab2-9e02-8f51ab7a591c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Search'])[1]/following::a[1]</value>
+      <webElementGuid>07cefbd2-804e-4982-836a-87e32bb8bd5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://live.techpanda.org/index.php/customer/account/'])[3]</value>
+      <webElementGuid>68cf9727-bf27-4189-a24f-27a81fb8dc1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[4]/ul/li/a</value>
+      <webElementGuid>0e915824-e187-42fe-9cde-3be998a036ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://live.techpanda.org/index.php/customer/account/' and @title = 'My Account' and (text() = 'My Account' or . = 'My Account')]</value>
+      <webElementGuid>e7bd62f9-83a7-4887-8210-ed7394736cbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

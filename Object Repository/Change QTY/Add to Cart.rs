@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add to Cart</name>
+   <tag></tag>
+   <elementGuidId>56457ade-d81d-4d45-b5fb-4b05a4cadd27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='top']/body/div/div/div[2]/div/div[2]/div/div[3]/ul/li[3]/div/div[3]/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>701d3e17-77b1-44ba-a466-d6aa11f42da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+      <webElementGuid>1e039976-12f4-4b0e-9ec6-3a941105e353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/body[@class=&quot;catalog-category-view categorypath-mobile-html category-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;main-container col3-layout&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;col-wrapper&quot;]/div[@class=&quot;col-main&quot;]/div[@class=&quot;category-products&quot;]/ul[@class=&quot;products-grid products-grid--max-4-col first last odd&quot;]/li[@class=&quot;item last&quot;]/div[@class=&quot;product-info&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;button btn-cart&quot;]/span[1]/span[1]</value>
+      <webElementGuid>98fa07bd-89d9-4a07-8c42-184fb4b95ce4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='top']/body/div/div/div[2]/div/div[2]/div/div[3]/ul/li[3]/div/div[3]/button/span/span</value>
+      <webElementGuid>47747cd2-4fac-41c8-850d-8a8061f5aa6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$100.00'])[1]/following::span[3]</value>
+      <webElementGuid>9797c1e0-9d1c-469e-b4c8-cbf511eec950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sony Xperia'])[1]/following::span[5]</value>
+      <webElementGuid>9fcea450-a5ee-4d8a-b674-29478699bd15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Wishlist'])[3]/preceding::span[1]</value>
+      <webElementGuid>bb0f434b-d66c-42c3-ac9e-8a7aee1b1ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[3]/preceding::span[1]</value>
+      <webElementGuid>e8abdb1c-a4ba-4294-ae3a-4601f8259788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div[3]/button/span/span</value>
+      <webElementGuid>973be22b-7156-4f9f-b31b-8a665f670dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add to Cart' or . = 'Add to Cart')]</value>
+      <webElementGuid>028aef04-dac3-4612-9237-8afd7cc22a10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

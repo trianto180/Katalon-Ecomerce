@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please select region, state or provi_73d6eb</name>
+   <tag></tag>
+   <elementGuidId>2cbce6c0-f9ed-445c-b1d0-ffb95ba7ced4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='billing:region_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b87d2334-c600-490f-8d8a-ae503795306a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>billing:region_id</value>
+      <webElementGuid>65b94d65-c917-4556-a383-e67c4ef15285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>billing[region_id]</value>
+      <webElementGuid>4df4d1e9-2b72-4927-af5b-b5b965bf04ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>State/Province</value>
+      <webElementGuid>dbb1efa4-fb50-4d20-ab9b-f92cd0166778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validate-select required-entry</value>
+      <webElementGuid>5f4e4476-c31a-47d9-8071-1873fdae7249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Please select region, state or province
+                            AlabamaAlaskaAmerican SamoaArizonaArkansasArmed Forces AfricaArmed Forces AmericasArmed Forces CanadaArmed Forces EuropeArmed Forces Middle EastArmed Forces PacificCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFederated States Of MicronesiaFloridaGeorgiaGuamHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarshall IslandsMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPalauPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirgin IslandsVirginiaWashingtonWest VirginiaWisconsinWyoming</value>
+      <webElementGuid>1c42d62b-3aef-40c3-a680-844cd0c35c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;billing:region_id&quot;)</value>
+      <webElementGuid>a907a502-2403-45b3-a578-172a3eac0908</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='billing:region_id']</value>
+      <webElementGuid>e263688f-6f80-4e0a-9603-7f7e67908854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='billing-new-address-form']/div/ul/li[5]/div[2]/div/select</value>
+      <webElementGuid>697018e0-89f5-4ee5-ac96-c2a091d15a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::select[1]</value>
+      <webElementGuid>3d917d62-d701-4793-84be-bf058c42fe08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::select[1]</value>
+      <webElementGuid>a47a38fc-f1eb-4aed-a7c6-9facba27dd40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>8c1a18a1-2900-4d25-8210-d16198d92dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'billing:region_id' and @name = 'billing[region_id]' and @title = 'State/Province' and (text() = '
+                                Please select region, state or province
+                            AlabamaAlaskaAmerican SamoaArizonaArkansasArmed Forces AfricaArmed Forces AmericasArmed Forces CanadaArmed Forces EuropeArmed Forces Middle EastArmed Forces PacificCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFederated States Of MicronesiaFloridaGeorgiaGuamHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarshall IslandsMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPalauPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirgin IslandsVirginiaWashingtonWest VirginiaWisconsinWyoming' or . = '
+                                Please select region, state or province
+                            AlabamaAlaskaAmerican SamoaArizonaArkansasArmed Forces AfricaArmed Forces AmericasArmed Forces CanadaArmed Forces EuropeArmed Forces Middle EastArmed Forces PacificCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFederated States Of MicronesiaFloridaGeorgiaGuamHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarshall IslandsMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPalauPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirgin IslandsVirginiaWashingtonWest VirginiaWisconsinWyoming')]</value>
+      <webElementGuid>22b2ef00-d8c5-463b-99f1-b5fe6c40f12b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
